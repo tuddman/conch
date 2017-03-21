@@ -1,7 +1,5 @@
 # conch
 
-[![Build Status](https://secure.travis-ci.org/Raynes/conch.png)](http://travis-ci.org/Raynes/conch)
-
 Conch is actually two libraries. The first, `me.raynes.conch.low-level` is a simple low-level
 interface to the Java process APIs. The second and more interesting library is
 an interface to low-level inspired by the Python
@@ -14,7 +12,7 @@ functions. See Usage for examples.
 
 In Leiningen:
 
-[![version](https://clojars.org/me.raynes/conch/latest-version.svg)](https://clojars.org/me.raynes/conch)
+[![version](https://clojars.org/tuddman/conch/latest-version.svg)](https://clojars.org/tuddman/conch)
 
 ## Usage
 
